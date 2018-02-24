@@ -1,0 +1,50 @@
+---
+- Ax, Throwing:
+  Range: 3/6/12 
+  Damage: Str+d6
+  RoF: 1
+  Cost: 75
+  Weight: 2
+  Min Str: None
+- Bow: 
+  Range: 12/24/48 
+  Damage: 2d6
+  RoF: 1
+  Cost: 500
+  Weight: 3
+  Min Str: d6
+- Crossbow:
+  Range: 12/24/48 
+  Damage: 2d6
+  RoF: 1
+  Cost: 500
+  Weight: 3
+  Min Str: d6
+- Longbow:
+  Range: 15/30/60
+  Damage: 2d6
+  RoF: 1
+  Cost: 200
+  Weight: 5
+  Min Str: d8
+- Knife/Dagger:
+  Range: 3/6/12
+  Damage: Str+d4
+  RoF: 1
+  Cost: 25
+  Weight: 1
+  Min Str: None
+- Sling:
+  Range: 4/8/16
+  Damage: Str+d4
+  RoF: 1
+  Cost: 10
+  Weight: 1
+  Min Str: None
+- Spear:
+  Range: 3/6/12
+  Damage: Str+d6
+  RoF: 1
+  Cost: 100
+  Weight: 5
+  Min Str: d6

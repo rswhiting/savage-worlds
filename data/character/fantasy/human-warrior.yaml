@@ -1,0 +1,42 @@
+---
+Name: Gardiff the Lost (WC)
+Race: Human
+Gender: Male
+Rank: Novice
+Attributes:
+  Agility: d6
+  Smarts: d4
+  Spirit: d4
+  Strength: d10
+  Vigor: d10
+Skills:
+  Fighting: d8
+	Intimidate: d6
+	Notice: d4
+	Persuasion: d4
+	Riding: d6
+	Swimming: d6
+	Throwing: d6
+Derived:
+  Pace: 6+1d6
+  Charisma: 0
+  Parry: 5
+  Toughness: 9
+Edges:
+- Brawny
+Hindrances:
+- All-Thumbs(m)
+- Illiterate(m)
+- Heroic (M)
+Gear:
+- Two Handed Sword (STR+1d10, Parry -1, 2H)
+- Leather Armor (Armor+1)
+- Backpack
+Backstory: |
+  Gardiff always was a little dim – the last to understand the moral of a story, the last to learn to tie his shoes. He couldn't fix a cart or plow. He never did learn his letters or how to write his own name. But what Gardiff did learn, he learned well. A strong sense of right and wrong, for example, always has colored Gardiff’s perception of the world. A good thing, too, since even as Gardiff’s mind lagged behind his fellows, his body grew to dwarf theirs. Standing a hair under seven feet tall and well over 300 lbs, Gardiff is a physical monster among men.
+
+  Think what you wish of young Gardiff, he was not so stupid he couldn’t recognize what few talents and advantages he held. Easily enough he could have bullied the people around him. Instead, his strong moral compass led him in the other direction. Gardiff became a protector, helping those persons weaker than he against those would prey upon them. In a way, he forged a symbiotic relationship with his peers; where he kept them from harm, they looked out for him when faced with persons who would dupe or manipulate him.
+
+  Gardiff and his friends grew to adulthood, in time joining their home town militia. Trained to fight with blade and fist, it appeared that Gardiff had found his place in the world. He threw himself into his studies with impassioned fervor, diligently absorbing each lesson his swordmasters presented. But near the end of his training, Gardiff’s world collapsed. Alongside his friends, Gardiff had been camped in the hills just outside of town. They never saw their attackers as arrows tore through the thin tent-cloth and sank deeply into unsuspecting flesh. Gardiff awoke two days later in cabin of the town’s healer, his wounds bound in thin gauze. He was the sole survivor.
+
+  Gardiff lost his place in the world, namely a place alongside his friends. Now, Gardiff has found no other choice but to leave his homeland and all of its tumultuous memories. He is disheartened, a little broken inside, but he knows he must find a new way in the world.

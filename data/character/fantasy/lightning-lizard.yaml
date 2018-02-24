@@ -1,0 +1,31 @@
+---
+Name: Lightning Lizard (Summoned Creature)
+Attributes:
+  Agility: d6
+  Smarts: d6
+  Spirit: d6
+  Strength: d6
+  Vigor: d10
+Skills:
+  Climb: d6
+	Fight: d6
+	Notice: d6
+	Shoot: d6
+	Stealth: d6
+	Throw: d6
+Derived:
+  Pace: 6
+  Parry: 5
+  Toughness: 8
+Hinderances:
+- Animal Intelligence (minor)
+- Cannot be Touched (minor)
+Edge:
+- Increased Agility
+Powers:
+- Shocking Touch d6 + d8 No Range
+- Lightning Bolt 2d6 12/24/48
+Description: |
+  When Hugo Rune summons a creature it is a shock lizard. It has a pale blue belly and a darker blue color on its back. It looks like a common lizard but with electricity all around it. It is about 2 feet long and weighs about 40 pounds. It can shoot a lighting bolt from its mouth but may also attempt to grab and shock its prey. It is not at any disadvantage when fighting an armed creature.
+
+  As a practical matter this is the exact same as summoned guardian. It has the disadvantage of being an animal so given animal intelligence. Since it cannot be summoned to help instead of attacked this is also a disadvantage. So it is allowed a heightened vigor in exchange.

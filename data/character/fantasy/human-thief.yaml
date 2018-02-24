@@ -1,0 +1,37 @@
+---
+Name: Praterkarli
+Race: Human
+Rank: Novice XP: 0
+Attributes:
+  Agility: d8(+2)
+	Smarts: d6
+	Spirit: d6
+	Strength: d6
+	Vigor: d6
+Skills:
+  Climbing: d6
+	Fighting: d6
+	Guts: d4
+	Lockpicking: d6
+	Notice: d4
+	Persuasion: d4
+	Shooting: d4
+	Stealth: d8
+	Streetwise: d4
+	Swimming: d4
+Derived:
+  Pace: 6
+	Parry: 6
+	Toughness: 5
+Hindrances:
+- Greedy
+- Wanted (minor)
+- Loyal
+Edges:
+- Thief
+- Acrobat
+Gear:
+- Short Sword
+- Leather Armor
+- Lockpicks
+Description: Praterkarli, Karli for her friends, grew up on the streets of a major city. She is greedy, but at the same time very, loyal, looking for the surrogate family she never had. She is wanted by the city guards for pickpocking and burglary.

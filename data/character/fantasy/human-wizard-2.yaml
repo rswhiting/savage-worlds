@@ -1,0 +1,41 @@
+---
+Name: Leopold von Stadt
+Race: Human
+Rank: Novice
+XP: 0
+Attributes:
+  Agility: d6
+	Smarts: d8
+	Spirit: d6
+	Strength: d4
+	Vigor: d6
+Skills:
+  Climbing: d4
+	Fighting: d6
+	Guts: d4
+	Healing: d4
+	Investigation: d4
+	Knowledge (Arcane): d8
+	Notice: d4
+	Persuasion: d6
+	Riding: d4
+	Spellcasting: d8
+	Swimming: d4
+Derived:
+  Pace: 6
+	Parry: 5
+	Toughness: 5
+Hindrances:
+- Yellow
+- Greedy
+- Hard of Hearing (minor)
+Edges:
+- Arcane Background (Magic)
+- Wizard
+Gear: 
+Powers:
+- Bolt
+- Fear
+- Detect/ Conceal Arcana
+Description: |
+  Leopold is a young wizard in his early twenties. He spent most of his life in libraries and laboratories. It's hard for him to listen, because it seems a bodyless voice is always mumbling to him in an unknown language.

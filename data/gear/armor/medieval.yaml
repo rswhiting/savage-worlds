@@ -1,0 +1,58 @@
+---
+- Leather:
+  Armor: +1
+  Weight: 15
+  Cost: 50
+  Notes: covers torso, arms, legs
+- Chain Hauberk:
+  Armor: +2
+  Weight: 25
+  Cost: 300
+  Notes: covers torso, arms, legs, long coat chainmail
+- Plate Corselet:
+  Armor: +3
+  Weight: 25
+  Cost: 400
+  Notes: covers torso
+- Plate Arms:
+  Armor: +3
+  Weight: 10
+  Cost: 200
+  Notes: Covers arms, ambrace
+- Plate Leggings:
+  Armor: +3
+  Weight: 15
+  Cost: 300
+  Notes: Covers legs (greaves)
+- Pot Helm:
+  Armor: +3
+  Weight: 4
+  Cost: 75
+  Notes: 50% vs. head shot
+- Steel Helmet:
+  Armor: +3
+  Weight: 8
+  Cost: 150
+  Notes: Covers head (enclosed)
+- Plate Barding:
+  Armor: +3
+  Weight: 30
+  Cost: 1250
+  Note: For horses
+- Small Shield:
+  Weight: 8
+  Cost: 25
+  Parry: +1
+  Note: buckler or small
+- Medium Shield:
+  Weight: 12
+  Cost: 50
+  Parry: +1
+  Armor Ranged: +2
+- Large Shield:
+  Weight: 20
+  Cost: 200
+  Parry: +2
+  Armor Ranged: +2
+  Note: kite, pavise
+

@@ -1,0 +1,38 @@
+---
+Name: Astner
+Race: Human
+Rank: Novice
+XP: 0
+Attributes:
+  Agility: d6
+	Smarts: d6
+	Spirit: d8
+	Strength: d6
+	Vigor: d6
+Skills: 
+  Climbing: d4
+	Faith: d6
+	Fighting: d6
+	Guts: d6
+	Healing: d4
+	Notice: d6
+	Persuasion: d8
+	Riding: d4
+	Swimming: d4
+Derived:
+  Pace: 6
+  Parry: 5
+  Toughness: 5
+Hindrances: 
+- Heroic
+- Poverty
+- Vengeful (minor)
+Edges:
+- Arcane Background (Miracles)
+- Holy Warrior
+Gear: 
+- spear with head in form of the holy symbol
+Powers:
+- Healing
+- Smite
+Description: Astner is a member of the holy order of the sun god. He is fighting for the weak and follows a vow of poverty, giving at least half of his funds to the temple every week.

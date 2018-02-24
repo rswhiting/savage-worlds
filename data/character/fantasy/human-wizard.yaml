@@ -1,0 +1,59 @@
+---
+Name: Galloran (WC)
+Race: Human
+Gender: Male
+Rank: Novice
+Attributes:
+  Agility: d6
+	Smarts: d8
+	Spirit: d6
+	Strength: d4
+	Vigor: d8
+Skills:
+  Fighting: d6
+	Intimidate: d4
+	Investigate: d6
+	Knowledge(Magic): d8
+	Notice: d6
+	Persuasion: d6
+	Spellcasting: d8
+Derived:
+  Pace: 6+1d6
+  Charisma: 0
+  Parry: 5
+  Toughness: 6
+Edges:
+- Arcane Background (Magic)
+- Wizard
+Powers:
+- Bolt
+- Deflection
+- Obscure
+Hindrances:
+- Small (M)
+- Quirk
+- Enemy
+Gear:
+- Leather Armor (Armor +1)
+- Club (Brass Topped Walking Stick STR+d4)
+- Magical Supplies
+- Fine Clothing
+Backstory: |
+  Born the only son of village schoolteachers, Galloran was raised with a love of learning. Always bookish and kind of pudgy, he none the less showed a willingness to engage in hard work and daily chores. When the gift of magic manifested, Galloran's parents were ecstatic... until the reality of their situation set in. Too poor to get the boy formal training, they managed to acquire what books and information they could. 
+
+  Through second hand grimoires and the odd lesson gleaned from passers by, Galloran was largely self taught. He furthered his study by traveling where he could, using the resources of other libraries to answer question after question. Even as a young man, Galloran retained his short stature and quickly learned to defend himself against all but the most skilled of bullies. He toughened up immensely, and learned not to be pressured by others who would sway him.
+
+  But Galloran developed a bit of a chip on his shoulder. He saw plainly those other magic wielders born to privilege enough to afford more formal training. He noted how much easier their studies became within the constraints of a structured environment. Galloran seethed at their coddled lifestyle and little social cliques.
+
+  Perhaps it was just a bad day (though in truth part of Galloran wanted it to happen) when a cluster of these young wizards pushed past him arrogantly. Galloran demanded an apology, but recieved a snide, mocking comment instead. Galloran demanded a wizard's duel. Once the laughter subsided from his peers, the other wizard agreed haughtily.
+
+  He simply could have walked away, any offense subsiding in short time. Instead, Galloran forcibly escalated the matter. The dual was fought, and in truth both casters were fairly evenly matched in magical abilities. But Galloran had one advantage -- some measure of experience growing up in the real world. As flurries of eldritch energies were launched and deflected until both caster panted near exhaustion, Galloran did the unexpected. After deflecting a final bolt from his opponent, Galloran closed the distance and struck him hard across the head with walking stick. The young wizard dropped to the ground, unconscious and twitching, even as Galloran laughed and walked away. Magic doesn't solve everything.
+
+  In the weeks that have followed since defeating a schooled wizard, Galloran's ego has grown, and so has his own estimation of his abilities. Now Galloran is poised to travel to a new locale, one in which a powerful Magus once had a library of over a hundred volumes. But the journey will be long, and who knows what he will find along the way.
+
+  Notes
+  Galloran is a fairly direct wizard build with no real surprises. He's just a basic example of a usable wizard who is capable of surviving from Novice rank, despite his Small hindrance.
+
+  Quirk - Needlessly attempts to prove his superiority over formally educated wizards (m)
+
+  Enemy - Rival Wizard that Galloran defeated in a duel (m)

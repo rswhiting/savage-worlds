@@ -1,0 +1,61 @@
+---
+Name: Jorgindel
+Race: Elf
+Rank: Novice XP: 0
+Attributes:
+  Agility: d8
+	Smarts: d8
+	Spirit: d6
+	Strength: d6
+	Vigor: d6
+Skills: 
+  Climbing: d4
+	Fighting: d6
+	Guts: d4
+	Notice: d4
+	Persuasion: d4
+	Riding: d4
+	Shooting: d8
+	Spellcasting: d6
+	Stealth: d4
+	Survival: d4
+	Swimming: d4
+Derived:
+  Pace: 6
+  Parry: 5
+  Toughness: 5
+Hindrances: 
+- Overconfident
+- Pacifist (minor)
+- Poverty
+- All Thumbs
+Edges:
+- Low Light Vision
+Gear:
+  Bow:
+    Damage: 2d6
+    RoF: 1
+    Min Str: d6
+    Weight: 3
+    Range: 12/24/48
+Powers:
+  Beast Friend: 
+    Rank: Novice
+    Power Points: Special
+    Range: Smarts x 100 yards
+    Duration: 10 minutes
+    Trappings: The mage concentrates and gestures with his hands. This spell allows mages to speak with and guide the actions of nature’s beasts. It works only on creatures with animal intelligence, not humanoids. Nor does it work on conjured, magical, or otherwise “unnatural” animals. The target must be within the sorcerer’s range — it is not conjured. The cost to control a creature depends on its Size. The base cost is 3, plus twice its Size for creatures with a Size greater than 0. A great white shark (Size +4) costs 3 plus 8 (2x4), or 11 points. A roc (Size +8) costs 19 Power Points to control. Swarms may also be controlled. Small swarms cost 3, Mediums 5, and Large 8. Thus a single rat costs 3 to control, as does a small swarm of the creatures. 
+  Entangle: 
+    Rank: Novice
+    Range: Smarts
+    Power Points: 2-4
+    Duration: Special
+    Trappings: Glue bomb, vines, handcuffs, spider webs. This power allows the character to restrain a target with snaking vines, lengths of hair, spider webs, or some other vine-like trapping. The arcane skill roll is opposed by the target’s Agility. Success indicates partial restraint so that the target suffers a –2 penalty to Pace and skills linked to Agility and Strength. A raise restrains the target fully. He cannot move or use any skills linked to Agility or Strength. Each following action, an entangled target may make a Strength or Agility roll to break free. Other characters may also attempt to free the ensnared person by making a Strength roll at –2. For 2 Power Points entangle targets a single opponent. For 4 points it affects everyone in a Medium Burst Template. 
+  Deflection: 
+    Rank: Novice
+    Power Points: 2
+    Range: Touch
+    Duration: 3 (1/round)
+    Trappings: Mystical shield, gust of wind, phantom servant that intercepts the missiles. Deflection powers work in a variety of ways. Some actually deflect incoming attacks, others blur the target’s form or produce other illusionary effects. The end result is always the same however — to misdirect incoming melee and missile attacks from the user. With a standard success, attackers must subtract 2 from any Fighting, Shooting, or other attack rolls directed at the user. A raise increases the penalty to –4. This also acts as Armor against area effect weapons
+Description: Jorgindel is the typical elf traveling with humans. She seems not to care too much about anything, but on the other hand never attacks first. Wealth has no meaning to her and she gives her belongings away regulary and spontenous, making fun of those valuing it. Beware! She just gave away her Short Sword...
+References: created by tartex

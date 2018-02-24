@@ -1,0 +1,40 @@
+---
+Name: Beta Flatfinger
+Race: Half-Folk
+Rank: Novice
+XP: 0
+Attributes:
+  Agility: d8
+	Smarts: d4
+	Spirit: d6
+	Strength: d6
+	Vigor: d8
+Skills:
+  Climbing: d4
+	Fighting: d6
+	Guts: d4
+	Notice: d6
+	Persuasion: d4
+	Swimming: d4
+	Taunt: d4
+	Stealth: d6
+	Lockpicking: d4
+	Streetwise: d4
+	Shooting: d6
+Derived:
+  Pace: 6
+  Parry: 5
+  Toughness: 5
+Hindrances:
+- Small
+- Curious
+- Big Mouth
+- Quirk (Eating)
+Edges:
+- Luck
+- Greater Luck
+Gear: 
+- Bow
+- Flail
+- Leather Armour
+Description: Beta is your typical halfling. She has many different talents, but also seems to be loved by fate. Normally she is pretty slim, even for her size, but after a proper meal - she eats at least as much as dwarf - her belly pops out enormously. She extremely curious and cannot keep her mouth shut.

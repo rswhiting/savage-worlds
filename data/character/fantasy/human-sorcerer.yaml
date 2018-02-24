@@ -1,0 +1,161 @@
+---
+Name: Hugo Rune
+Race: Human
+Rank: Novice
+XP: 10
+Attributes: 
+  Agility: d6
+	Smarts: d8
+	Spirit: d8
+	Strength: d4
+	Vigor: d6
+Skills: 
+  Fighting: d4
+	Healing: d4
+	Investigation: d6
+	Knowledge (academics) (arcana): d8
+	Notice: d6
+	Spell Weaving: d8
+	Shooting: d6
+	Swimming: d4
+Derived:
+  Pace: 6
+	Parry: 5
+	Toughness: 5
+	Charisma: 0
+Hinderances: 
+- Curious
+- Enemy 
+- Loyal
+- Arcane Drawback
+Edges: 
+- Increase Agility
+- Arcane Background (sorcerer)
+- Wizard (-1 spell point per raise)
+- Summon Ally (1st adv)
+- Shape Change (2nd adv)
+Gear:
+- Staff d4 + d4 1 reach, +1 Parry
+- Sling 12/24/48 2d4
+- Dagger 3/6/16 Str + d4 1
+- Leather Armor +1 Torso
+- Arms & Legs 15
+Spell Points: 15
+Powers:
+- Bolt
+- Dispel Magic 8 — Instant 3
+- Summon Ally 8 — 3 (1/round) 3 Lighting Lizard
+- Shape Change Self — 1 minute (1/min)3 Hawk, Rabbit, Cat
+Description: enemy, Medula’s guild of thieves. arcane drawback, shaken on spell weaving die of 1
+Background: |
+  Hugo was born in the small town of Gaimen where magic was illegal. As a young man Hugo did not realize he had powers but sometimes did strange things by accident and nobody realized what he had done. An army of religious fantastics known as White Cloaks attacked the town; burning it to the ground. Hugo saw the army coming because he was out hunting and he was able to flee to safety. The people of Gaimen were bonded into slavery.
+
+  Hugo eventually made his way to Tuam (a large city) where he lived on the streets until he was discovered by Whittier Von Litvig. Mr. Litvig immediately recognized Hugo’s potential when he observed Hugo being accosted in the street by a group of Medula’s goons. They quickly overwhelmed Hugo but suddenly dropped to the ground in convulsions.
+
+  Mr. Litvig took Hugo in and helped him develop is innate ability to channel electricity. Mr. Litvig was not a traditional mentor and was a scoundrel and crook before anything. He was also an intellectual and well studied and read. Why he helped Hugo is a mystery. He sometimes worked for the Hart Oganization (a guild of thieves in Tuam). It should not have come as a surprise that Hugo returned to their apartments one day to find Litvig gone and all of their things gone.
+
+  Having nowhere to go, Litvig fell in with a thief named Zilch and a barbarian named Kunta Hora. Hugo must keep his talents a secret since Magic is illegal in the Kingdom of Tullamore.
+Supplemental:
+  Cat (small) Form:
+    Attributes: 
+      Agility: d8
+      Smarts: d8
+      Spirit: d8
+      Strength: d4
+      Vigor: d6
+    Skills: 
+      Climbing: d6
+      Fight: d6
+      Notice: d6
+      Stealth: d8
+    Derived:
+      Pace: 6
+      Parry: 6
+      Toughness: 5
+      Charisma: 0
+    Hinderances:
+    - No Hands
+    - No Speech
+    Edges: 
+    - Acrobat (+2 agility for acrobat and +1 Parry)
+    - Bite/Claw
+    - Low Light vision
+    - Size -2
+    - Small (-2 attackers).
+    - Bite/Claw d4
+  Hawk (small) Form:
+    Attributes: 
+      Agility: d6
+      Smarts: d8
+	    Spirit: d8
+	    Strength: d4
+	    Vigor: d6
+    Skills: 
+      Fight: d6
+	    Notice: d8,
+    Derived:
+      Pace: 8 (d10)
+	    Parry: 6
+	    Toughness: 5
+	    Charisma: 0
+    Hinderances:
+    - No Hands
+	  - No Speech
+    Edges:
+    - Flight (Movement 8, 4 climb)
+	  - Bite/Claw
+	  - Low Light vision
+	  - Size -2
+	  - Small (-2 attackers).
+    - Bite/Claw d4
+  Rabbit (small) Form:
+    Attributes: 
+      Agility: d8
+	    Smarts: d8
+	    Spirit: d8
+	    Strength: d4
+	    Vigor: d6
+    Skills: 
+      Climbing: d4
+      Fight: d6
+      Notice: d8
+      Stealth: d8
+      Tracking: d4
+    Derived:
+      Pace: 8 (d8)
+      Parry: 6
+      Toughness: 5
+      Charisma: 0
+    Hinderances:
+    - No Hands
+	  - No Speech
+    Edges:
+    - Acrobat (+2 agility for acrobat and +1 Parry)
+    - Bite/Claw
+    - Low Light vision
+    - Size -2
+    - Small (-2 attackers)
+    - smell (danger sense).
+    - Bite/Claw d4-2
+  Horse (riding):
+    Attributes:
+      Agility: d8
+	    Smarts: d4
+	    Spirit: d6
+	    Strength: d12
+	    Vigor: d8
+    Skills: 
+      Fighting: d6
+	    Notice: d6
+    Derived:
+      Pace: 10
+      Parry: 4
+      Toughness: 8
+      Charisma: 0
+    Hinderances: Animal Intelligence and No Hands.
+    Edges: 
+    - Fleet Footed (d8 with running)
+	  - Kick Str
+    - Size +2 (Weigh 800-1000 lbs)
+    - Kick d12
+Creator: Dorian O’Neill-Perez (Age 9)

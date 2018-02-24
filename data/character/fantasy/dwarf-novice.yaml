@@ -1,0 +1,44 @@
+---
+Name: Akradolk
+Race: Dwarf
+Rank: Novice 
+XP: 0
+Attributes: 
+  Agility: d6
+  Smarts: d6
+  Spirit: d6
+  Strength: d8
+  Vigor: d10
+Skills:
+  Climbing: d4
+  Fighting: d6
+	Guts: d6
+	Lockpicking: d4
+	Notice: d4
+	Persuasion: d4
+	Repair: d4
+	Shooting: d6
+	Survival: d4
+	Swimming: d4
+	Taunt: d4
+	Tracking: d4
+Derived:
+	Pace: 5
+	Parry: 5
+	Toughness: 7
+Hindrances: 
+  Greedy: obsessed with wealth
+  Stubborn: always wants his way
+	Quirk (minor): proud to live up to all the dwarven clichés you expect
+Edges: Racial: Low Light Vision
+Gear:
+  Battle Axe:
+		Damage: Str+d8
+		Weight: 10
+	Large Shield:
+	  Parry: +2
+		Ranged Armor: +2
+		Weight: 20
+Description: Akaradolk is your typical dwarf. He is still young
+
+

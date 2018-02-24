@@ -1,0 +1,87 @@
+---
+Name: Gatun
+Race: Human
+Rank: Novice
+XP: 10
+Attributes:
+  Agility: d8
+	Smarts: d4
+	Spirit: d6
+	Strength: d8
+	Vigor: d8
+Skills: 
+  Climb: d4
+	Fight: d6
+	Notice: d6
+	Riding: d4
+	Shooting: d4
+	Stealth: d6+2
+	Survival: d8+2
+	Swimming: d6
+	Throwing: d4
+	Tracking: d8+2
+Derived:
+  Pace: 6
+	Parry: 6
+	Toughness: 7
+	Charisma: 0
+Hinderances:
+- Illiterate
+- Clueless
+- Poverty
+Edges:
+- Raise Strength
+- Raise Vigor
+- Raise Skills (2 skills)
+- Woodsman (+2 Track, Survival and Stealth)
+- Martial Artist (never unarmed, +d4 unarmed damage).
+Powers:
+- Brawling
+Gear:
+- Spear
+- Staff
+- Dagger
+- Hatchet
+- Leather Armor
+- Sacred Rocks
+Supplemental:
+  Horse (riding):
+    Attributes:
+      Agility: d8
+	    Smarts: d4
+	    Spirit: d6
+	    Strength: d12
+	    Vigor: d8
+    Skills: 
+      Fighting: d6
+	    Notice: d6
+    Derived:
+      Pace: 10
+      Parry: 4
+      Toughness: 8
+      Charisma: 0
+    Hinderances: Animal Intelligence and No Hands.
+    Edges: 
+    - Fleet Footed (d8 with running)
+	  - Kick Str
+    - Size +2 (Weigh 800-1000 lbs)
+    - Kick d12
+Age: 19
+Gender: Male
+Height: 5’ 8”
+Hair: Light Brown
+Weight: 160
+Eyes: Green
+Background: |
+  Despite his difficult life, Gatun is an optimist and fun loving sort. He loves people and is friendly and congenial. Instead of despising civilization, he has embraced it and loves what it has to offer. He loves bright clothes and shiny objects. However, Gatun does not understand money or how it works. He spends his money quickly and is generous to a fault. His naïveté is endearing but can get him into trouble. This is also true for his curiosity. Gatun observes the law of the wild and this may come out when he his angry or threatened.
+
+  Gatun’s memory of his childhood is vague. He was the son of a wood cutter who lived on the edge of civilization. He spent most of his time alone or with his father. His mother was not around and he has no memory of having a mother. At some point he became separated from his father at what was approximately the age of around 10.
+
+  While in the wild Gatun was befriended and adopted by a pack of wolves. He later befriended an orphaned bear cub. Gatun was the alpha male of the pack when he was found by a group of Sitara (gypsies) that were part of a traveling circus. At first he was a novelty act know as “The Wolf Boy” but he eventually escaped from the camp.
+
+  He had travelled far from home but was taken in during the winter by monks known as White Cloaks. They were strict and difficult and forced him to wear clothes and learn to fear the gods and how to conduct himself in civilized society. He eventually ran away but it had been years and he no longer knew how to return to his pack.
+
+  Wondering from town to town was difficult for the boy but he eventually found himself with a group of brigands know as the Corsarians. The group had a falling out and Gatun ended up in the teeming city of Tuam.
+
+  In Tuam he fell in with a group of low level thugs and was befriended by “Rat.” Rat exploits Gatun and uses him for muscle. Gatun is oblivious to this and probably wouldn’t even believe anyone who pointed this out.
+Player: Matt O’Neill

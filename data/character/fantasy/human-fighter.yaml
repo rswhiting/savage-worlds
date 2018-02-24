@@ -1,0 +1,38 @@
+---
+Name: Kirla D'sa
+Race: Human
+Rank: Novice
+XP: 0
+Attributes: 
+  Agilty: d8
+	Smarts: d4
+	Spirit: d6
+	Strength: d8
+	Vigor: d8
+Skills: 
+  Climbing: d4
+	Fighting: d8
+	Guts: d6
+	Intimidation: d4
+	Notice: d4
+	Persuasion: d4
+	Riding: d4
+	Shooting: d8
+	Survival: d4
+	Swimming: d4
+Derived:
+  Pace: 6
+	Parry: 6
+	Toughness: 6
+Hindrances: 
+- Code of Honour
+- Doubting Thomas
+- Enemy (minor)
+Edges:
+- Sweep
+Gear: 
+- Long Sword
+- Large Shield
+Description: |
+  Kirla is a young fighter in her late teens. She just finished training at the fighters' academy of Ulrich. But she already has an enemy, when she accussed a fellow student of bullying the local peasantry, getting him banned from the academy, he secretly swore revenge. She does not trust magic.
+
